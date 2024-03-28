@@ -8,7 +8,7 @@ O TikTakToe, também conhecido como jogo da velha, é um jogo clássico para doi
 
 ## Funcionalidades Principais 🚀
 
-- **Jogo da Velha Interativo**: Jogue o clássico jogo da velha contra um amigo ou contra o computador.
+- **Jogo da Velha Interativo**: Jogue o clássico jogo da velha contra um amigo localmente.
 - **Modo de 2 Jogadores**: Jogue contra um amigo localmente.
 
 ## Tecnologias Utilizadas 🛠️
